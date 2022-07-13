@@ -1,0 +1,11 @@
+id: zozo_plus
+name: Zozo Plus
+author:
+  name: varkai
+  website: https://github.com/varkai
+description: A simple and beautiful theme for Halo
+logo:
+website: https://github.com/halo-dev/halo-theme-zozo
+repo: https://github.com/halo-dev/halo-theme-zozo
+version: 1.1.0
+require: 1.3.0
